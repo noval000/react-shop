@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.b461f06b.css",
+    "main.js": "/shop/static/js/main.b2bdbb0d.js",
+    "static/media/yeezy.png": "/shop/static/media/yeezy.9f35acd340a9b64a0960.png",
+    "static/media/classic.png": "/shop/static/media/classic.94b93bee0632fdc858cd.png",
+    "static/media/bg2.jpg": "/shop/static/media/bg2.984891a27256085f8b6e.jpg",
+    "static/media/superstar.png": "/shop/static/media/superstar.b6d6fd8043a00ef7d8b4.png",
+    "static/media/bg.jpg": "/shop/static/media/bg.533e9108c220c2caada6.jpg",
+    "static/media/royal.png": "/shop/static/media/royal.bff2e4c049f867a80be3.png",
+    "static/media/gazelle.png": "/shop/static/media/gazelle.dfda834edd634bd6baa5.png",
+    "static/media/jeans1.jpeg": "/shop/static/media/jeans1.d0b61e7f9943baa4b22f.jpeg",
+    "static/media/northface2.jpg": "/shop/static/media/northface2.2b3f0d69df936e03c3fe.jpg",
+    "static/media/reebok.png": "/shop/static/media/reebok.717720bb9aecd386dfd3.png",
+    "static/media/ozweego.png": "/shop/static/media/ozweego.97c920444f7e49df0c3b.png",
+    "static/media/sveetshot2.jpg": "/shop/static/media/sveetshot2.89d59fb5ab5b58d4ce2c.jpg",
+    "static/media/gazzele.png": "/shop/static/media/gazzele.15087c32d5452c6ae547.png",
+    "static/media/jeans2.webp": "/shop/static/media/jeans2.8db3d0f1102bba35775b.webp",
+    "static/media/ozweego.jpg": "/shop/static/media/ozweego.8eab1188cadd62c8061c.jpg",
+    "static/media/northface1.jpg": "/shop/static/media/northface1.8a3e61b1c4c0d4350e15.jpg",
+    "static/media/nike.png": "/shop/static/media/nike.c373ef96c45e154be30e.png",
+    "static/media/northface3.jpg": "/shop/static/media/northface3.db528758974cda04bfaf.jpg",
+    "static/media/rebook.png": "/shop/static/media/rebook.8e561aa8c61c72cd797c.png",
+    "static/media/jeans3.webp": "/shop/static/media/jeans3.6f8e792eae3ebe015a8b.webp",
+    "static/media/sveetshot1.avif": "/shop/static/media/sveetshot1.187475b5df17bee2f2d2.avif",
+    "static/media/rebookRoyal.jpg": "/shop/static/media/rebookRoyal.d2825d5280c542ef05e4.jpg",
+    "static/media/northFace.png": "/shop/static/media/northFace.5c1328878bd27ceb45f1.png",
+    "static/media/adidas.png": "/shop/static/media/adidas.0716682d0ccf4adc2278.png",
+    "static/media/logo.svg": "/shop/static/media/logo.c5373bdbed4e3e27761ddbb43860d3b6.svg",
+    "index.html": "/shop/index.html",
+    "main.b461f06b.css.map": "/shop/static/css/main.b461f06b.css.map",
+    "main.b2bdbb0d.js.map": "/shop/static/js/main.b2bdbb0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b461f06b.css",
+    "static/js/main.b2bdbb0d.js"
+  ]
+}
